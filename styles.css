@@ -97,6 +97,6 @@ body::before {
 @media (max-width: 400px) {
     .container{
         display: flex;
-        flex-direction: colomn;
+        flex-direction: row;
     }
 }
